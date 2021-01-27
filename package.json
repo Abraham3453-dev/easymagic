@@ -1,0 +1,72 @@
+{
+  "name": "easymagic",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.13.2",
+    "@react-native-community/datetimepicker": "^3.0.9",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-native-community/progress-bar-android": "^1.0.4",
+    "@react-native-community/progress-view": "^1.2.3",
+    "@react-native-firebase/app": "^10.5.0",
+    "@react-native-firebase/messaging": "^10.5.1",
+    "@react-navigation/bottom-tabs": "^5.11.2",
+    "@react-navigation/native": "^5.8.10",
+    "@react-navigation/stack": "^5.12.8",
+    "axios": "^0.21.1",
+    "i18n-js": "^3.8.0",
+    "react": "16.13.1",
+    "react-native": "0.63.3",
+    "react-native-af-video-player": "^0.2.1",
+    "react-native-camera": "^3.40.0",
+    "react-native-gesture-handler": "^1.9.0",
+    "react-native-localize": "^2.0.1",
+    "react-native-pdf": "^6.2.2",
+    "react-native-reanimated": "^1.13.2",
+    "react-native-safe-area-context": "^3.1.9",
+    "react-native-screens": "^2.16.1",
+    "react-native-vector-icons": "^7.1.0",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "rn-fetch-blob": "^0.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/runtime": "^7.8.4",
+    "@react-native-community/eslint-config": "^1.1.0",
+    "@types/i18n-js": "^3.0.3",
+    "@types/jest": "^26.0.19",
+    "@types/node": "^14.14.20",
+    "@types/react-native": "^0.63.2",
+    "@types/react-native-vector-icons": "^6.4.6",
+    "@types/react-redux": "^7.1.15",
+    "@types/react-test-renderer": "^16.9.2",
+    "@types/redux": "^3.6.0",
+    "@typescript-eslint/eslint-plugin": "^2.27.0",
+    "@typescript-eslint/parser": "^2.27.0",
+    "babel-jest": "^25.1.0",
+    "eslint": "^6.5.1",
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "react-test-renderer": "16.13.1",
+    "typescript": "^3.8.3"
+  },
+  "jest": {
+    "preset": "react-native",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  }
+}

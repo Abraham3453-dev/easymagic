@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "92307180369",
+    "firebase_url": "https://easy-magic-secret.firebaseio.com",
+    "project_id": "easy-magic-secret",
+    "storage_bucket": "easy-magic-secret.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92307180369:android:3085eb3ef2496b102ba170",
+        "android_client_info": {
+          "package_name": "com.easymagicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92307180369-r2d6u9iocensh481vp7u7s5bb6qs7ii8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDua_En-5XGVFh5MxzQErIzMWEnVutORIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92307180369-r2d6u9iocensh481vp7u7s5bb6qs7ii8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92307180369-iah8k3tl4q0n36emba6lvr0b389aukev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.easymagicapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

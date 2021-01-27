@@ -1,0 +1,4 @@
+export const SET_IS_SIGNED_IN = 'SET_IS_SIGNED_IN';
+export const SET_SESSION = 'SET_SESSION';
+export const SET_IS_DATA_LOADED = 'SET_IS_DATA_LOADED';
+export const SET_IS_INTRO_SHOWN = 'SET_IS_INTRO_SHOWN';
